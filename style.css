@@ -1,0 +1,21 @@
+body{font-size:14px;}
+a{text-decoration:none;}
+.planname{font-weight:bold;}
+.red{color:red;font-weight:bold;}
+.campaign_span{color:red;font-size:0.8rem;}
+.plan{padding:10px 20px;margin:10px;border-radius:4px;border:dotted 1px #8a8a8a;overflow:auto;}
+.btn{width:500px;height:70px;}
+.plan:hover{background-color:rgba(0,0,255,0.05);cursor:default;}
+.googlemap{margin-left:20px;}
+.plan textarea{width:500px;height:190px;resize:none;}
+.plan table{float:left;}
+.plan table td{padding:5px;font-size:14px;}
+.plan table th{background:rgba(0,0,255,0.2);font-size:0.8rem;padding:5px;font-weight:normal;border-radius:4px;}
+.plan table td{vertical-align:top}
+dl.search1{position:relative;background-color:#fff;border:1px solid #aaa;-webkit-border-radius:6px;-moz-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px;border-radius:6px;}
+dl.search1 dt{margin-right:40px;padding:8px 0 8px 8px;}
+dl.search1 dt input{width:100%;font-size:1.2rem;height:24px;line-height:24px;background:none;border:none;}
+dl.search1 dt input:focus{outline-offset:0;outline:none;}
+dl.search1 dd{position:absolute;top:0;right:0;}
+dl.search1 dd button{display:block;padding:10px;background:none;border:none;}
+dl.search1 dd button span{ display:block; width:20px; height:20px; background:url('image/search.png') no-repeat scroll -69px 0; }
